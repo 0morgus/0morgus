@@ -1,8 +1,3 @@
-- 0morgus
-- mtalua
-- poland
-
-<!---
-0morgus/0morgus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> [!NOTE]
+> This is 0morgus's profile
+> 
